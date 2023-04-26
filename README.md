@@ -3,7 +3,8 @@
 ## Description
 
 COURSE4u is a state-of-the-art online learning platform developed by Monica Camargo and Andrea García. It provides users with a comprehensive and dynamic learning experience, offering the ability to browse, explore (search), and subscribe as a premium member for courses, as well as add courses to their Account and leave reviews. Course4u also provides the admin interface that can create new courses, edit current ones, and delete them. 
-<img src="./public/images/logo.png" width="400" height="200">
+
+<img src="./public/images/logo.png" width="600" height="200">
 
 
 
@@ -355,8 +356,9 @@ const featuresSchema = new Schema(
 
 ## Useful links
 
-- [Github Repo](https://github.com/Module-2-Project-COURSE4U/COURSE4U)
+- [Shared Github Repo](https://github.com/Module-2-Project-COURSE4U/COURSE4U)
+- [Github Repo](https://github.com/Andrea0o0/MODULE-2-PROJECT-COURSE4U)
 - [Trello kanban](https://github.com/orgs/Module-2-Project-COURSE4U/projects/1/views/1?layout=board)
-- [Deployed version](https://course4u.fly.dev/courses)
+- [Deployed version](https://course4uu.fly.dev/courses)
 - [Presentation slides](https://1drv.ms/p/s!Akm3TPUfj8PLhmOWcd6_o-DQ-JKr?e=zK0Nfy)
 
